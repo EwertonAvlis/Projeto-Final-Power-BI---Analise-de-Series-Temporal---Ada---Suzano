@@ -24,12 +24,11 @@ O principal requisito deste projeto é a instalação do software Microsoft Powe
 - **[Power BI](https://powerbi.microsoft.com/pt-br/desktop/)**
 - **[Linguagem DAX](https://learn.microsoft.com/pt-br/dax/dax-overview)**
 
-```
 ### 🛠️ Executando 
 Para testar o projeto basta abrir o arquivo dashboard_projeto_pbi.pbit.
 
 ### Tecnologias 
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Htcq1puH4XsNKQG0iVRes_P9CPb4O8T13hu3kJbNXLlm7TvEhZhUdcyiZYUe9IqiIAw&usqp=CAU)](https://www.python.org/)
+[![]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Htcq1puH4XsNKQG0iVRes_P9CPb4O8T13hu3kJbNXLlm7TvEhZhUdcyiZYUe9IqiIAw&usqp=CAU](http://store-images.s-microsoft.com/image/apps.8409.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.69df8840-e52b-4609-9202-6f2c5f92aea1))]([https://www.python.org/](https://powerbi.microsoft.com/pt-br/desktop/))
 
 
 
