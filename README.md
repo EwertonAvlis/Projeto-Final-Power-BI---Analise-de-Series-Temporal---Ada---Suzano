@@ -28,4 +28,4 @@ O principal requisito deste projeto é a instalação do software Microsoft Powe
 Para testar o projeto basta abrir o arquivo [dashboard_projeto_pbi.pbit](https://github.com/EwertonAvlis/Projeto-Final-Power-BI---Analise-de-Series-Temporal---Ada---Suzano/blob/master/dashboard_projeto_pbi.pbit).
 
 ### Tecnologias 
-[![](https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi)](https://powerbi.microsoft.com/pt-br/)
+[![](https://icon-icons.com/pt/icone/microsoft-powerbi-logo/169958)](https://powerbi.microsoft.com/pt-br/)
