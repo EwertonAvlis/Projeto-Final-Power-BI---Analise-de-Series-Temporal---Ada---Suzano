@@ -20,7 +20,7 @@ Projeto final do módulo de visualização de Dados, em Power BI, com objetivo d
 Esses dados foram obtidos de https://www.kaggle.com/datasets/mattop/atlantic-and-pacific-cod-landings-1950-2021, do Kaggle e são apenas para fins educativos.
 
 ### 📋 Pré-requisitos
-O principal requisito deste projeto é a instalação do software Microsoft Power BI e linguagem DAX.
+O principal requisito deste projeto é a instalação do software Microsoft Power BI e conhecer os conceitos da ferramenta e linguagem DAX.
 - **[Power BI](https://powerbi.microsoft.com/pt-br/desktop/)**
 - **[Linguagem DAX](https://learn.microsoft.com/pt-br/dax/dax-overview)**
 
