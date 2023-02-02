@@ -19,7 +19,7 @@ Projeto final do módulo de visualização de Dados, em Power BI, com objetivo d
 
 Esses dados foram obtidos de https://www.kaggle.com/datasets/mattop/atlantic-and-pacific-cod-landings-1950-2021, do Kaggle e são apenas para fins educativos.
 
-O dashbord foi construído da seguinte forma [imagem](https://github.com/EwertonAvlis/Projeto-Final-Power-BI---Analise-de-Series-Temporal---Ada---Suzano)
+O dashbord foi construído da seguinte forma: [imagem](https://github.com/EwertonAvlis/Projeto-Final-Power-BI---Analise-de-Series-Temporal---Ada---Suzano/blob/master/dashboard.jpeg)
 
 ### 📋 Pré-requisitos
 O principal requisito deste projeto é a instalação do software Microsoft Power BI e conhecer os conceitos da ferramenta e linguagem DAX.
